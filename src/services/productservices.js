@@ -41,3 +41,4 @@ export const fetchProductDetails = async (category, productId) => {
     throw error;
   }
 };
+//h
